@@ -1,5 +1,6 @@
 💊 Smart Medicine Reminder System
 A simple and user-friendly web-based interface designed to help patients take their medicines on time. This project demonstrates a basic layout for a smart reminder system that can be extended into a full application with notifications and tracking features.
+
 📌 Project Overview
 The Smart Medicine Reminder System aims to improve patient health by ensuring timely medication intake. It provides an intuitive interface where users can understand how reminders, schedules, and alerts work in a real-world system.
 This project is especially useful for:
